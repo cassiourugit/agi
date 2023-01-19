@@ -1,0 +1,15 @@
+{
+  "name": "agi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cassiourugit/agi.git",
+  "author": "Cássio <cassiouru@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+
+}
