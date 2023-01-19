@@ -2,15 +2,15 @@
 
 
 ## Estrutura
-* Pasta fixtures
+* Pasta cypress/fixtures
 
         Local onde ficam armazenadas as massas de dados por página
 
-* Pasta support/pages
+* Pasta cypress/support/pages
 
         Local onde fica o mapa de elementos e o page_object de cada página
 
-* Pasta e2e
+* Pasta cypress/e2e
 
         Local onde ficam os specs de teste
 
